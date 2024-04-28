@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "796576658978",
+    "project_id": "meditation-app-22821",
+    "storage_bucket": "meditation-app-22821.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796576658978:android:0be26ebd4022137fba3c7b",
+        "android_client_info": {
+          "package_name": "com.rahul_developer.meditation_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk_V-wh74YfWsg9ui3k5SfLMngJwfrzMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

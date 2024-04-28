@@ -1,0 +1,19 @@
+const home = "Home",
+    lessons = "Practices",
+    meditation = "Meditation",
+    profile = "Profile";
+
+const mentaltraining = "Mental Training",
+    gratitude = "Gratitude",
+    freewill1 = "Free Will 1 ",
+    session1 = "13",
+    session2 = "6",
+    time1 = "4:23:05",
+    time2 = "0:55:04",
+    mon = "Mon",
+    tue = "Tue",
+    wed = "Wed",
+    thu = "Thu",
+    fri = "Fri",
+    sat = "Sat",
+    sun = "Sun";
